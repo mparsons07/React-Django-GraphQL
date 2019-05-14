@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/borghi/.local/share/virtualenvs/python-graphene-MgfjfekC/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
