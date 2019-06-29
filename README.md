@@ -10,18 +10,18 @@
 
 	Go inside the App folder and run 
 
-	```sh
+	```console
 	$ pipenv shell
 	```
 
 	Then again, inside the app folder, run the backend django server
 
-	```sh
+	```console
 	$ python manage.py runserver
 	```
 
 	Finally, inside the react-trackas-client folder, run the frontend server
 
-	```sh
+	```console
 	$ npm run start
 	```
